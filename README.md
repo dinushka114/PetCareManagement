@@ -1,4 +1,4 @@
-# Pet Care Management 🐕 
+# Pet Care Management 🐾🐕 
 
 By offering a variety of services, the Pet Care Management System aids in taking care of your adorable pets. The system is a website where any user may check pet information, pet accessories, pet service information, and pet boarding kennel locations. The system administrators have complete control over every action taken on the website. When a user logs in as an admin with the correct login and password, the admin dashboard and a summary of each function are displayed. 🐶
 
@@ -25,7 +25,7 @@ By offering a variety of services, the Pet Care Management System aids in taking
 - Selenium - For testing 
 
 
-## How to get started
+## How to get started 💻
 #### Softwares:
 - IntelliJ Idea IDE
 - VS Code IDE
